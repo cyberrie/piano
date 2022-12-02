@@ -15,7 +15,7 @@ Responsive Design tells your webpage how it should look on different-sized scree
 
 The following image shows Piano appearance:
 
-![portfolio demo](./images/piano1.png)
+![portfolio demo](./images/piano2g.png)
 
 # Get Started
 
