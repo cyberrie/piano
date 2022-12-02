@@ -19,8 +19,6 @@ The following image shows Piano appearance:
 
 # Get Started
 
-Click on this link to open the application on live server:
+Click on this link to open the application on live server: [Responsive Piano](https://cyberrie.github.io/piano/)
 
 Hit the logo on my piano creation and let the challenge begin!
-
-[Helena's Portfolio Page]()
